@@ -1,0 +1,17 @@
+{
+  "name": "auto-img-to-word",
+  "version": "1.0.0",
+  "description": "自动将图片转换为Word文档工具",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": ["image", "word", "docx", "conversion"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "docx": "^8.5.0",
+    "image-size": "^1.1.1"
+  }
+} 
